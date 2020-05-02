@@ -1,0 +1,19 @@
+.custom-img{
+	vertical-align: middle;
+	margin-right: 2px;
+}
+.avatar{
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+}
+.quote{
+	opacity: 0.8;
+}
+.langs{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.custom-tags{
+	text-transform: uppercase;
+}
