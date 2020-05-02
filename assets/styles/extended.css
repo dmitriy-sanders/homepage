@@ -10,3 +10,10 @@
 .quote{
 	opacity: 0.8;
 }
+.langs{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.custom-tags{
+	text-transform: uppercase;
+}
