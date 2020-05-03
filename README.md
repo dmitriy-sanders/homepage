@@ -14,3 +14,5 @@ As one wise man said
 ## :boom: Created by *Dmitriy Uvin* :rocket:
 
 Thanks for CSS framework @volodymyr-kushnir ([volodymyrkushnir.com](https://volodymyrkushnir.com/))
+
+Hocus-pocus!
