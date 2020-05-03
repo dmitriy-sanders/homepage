@@ -1,0 +1,35 @@
+.custom-img{
+	vertical-align: middle;
+	margin-right: 2px;
+}
+.avatar{
+	border-radius: 30%;
+	width: 150px;
+	height: 150px;
+}
+.quote{
+	opacity: 0.8;
+}
+.langs{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.custom-tags{
+	text-transform: uppercase;
+}
+#wave{
+	color: #821a06d9;
+    padding-top: calc((100% - 1127px) / 2);
+    height: 7em;
+    box-sizing: content-box;
+    background: currentColor;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+#wave svg {
+    display: block;
+    position: relative;
+    top: 7em;
+}
