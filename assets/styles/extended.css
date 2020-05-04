@@ -1,28 +1,23 @@
-.custom-img {
+.custom-img{
 	vertical-align: middle;
 	margin-right: 2px;
 }
-
-.avatar {
+.avatar{
 	border-radius: 30%;
 	width: 150px;
 	height: 150px;
 }
-
-.quote {
+.quote{
 	opacity: 0.8;
 }
-
-.langs {
+.langs{
 	font-weight: bold;
 	text-transform: uppercase;
 }
-
-.custom-tags {
+.custom-tags{
 	text-transform: uppercase;
 }
-
-#wave {
+#wave{
 	color: #821a06d9;
     padding-top: calc((100% - 1127px) / 2);
     height: 7em;
@@ -33,7 +28,6 @@
     top: 0;
     width: 100%;
 }
-
 #wave svg {
     display: block;
     position: relative;
