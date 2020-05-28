@@ -5,7 +5,7 @@ As one wise man said
 >Do what you can, with what you have, where you are.
 
 ## Preview :mag:
-![Image alt](https://github.com/dmitriy-sanders/homepage/raw/develop/assets/images/preview.png)
+![Preview](https://github.com/dmitriy-sanders/homepage/raw/develop/assets/images/preview.png)
 
 ## Links :electric_plug:
 - [GitHub Pages](https://dmitriy-sanders.github.io/homepage/)

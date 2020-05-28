@@ -10,7 +10,7 @@
 }
 
 .quote {
-	opacity: 0.8;
+	opacity: 0.75;
 }
 
 .langs {
@@ -23,7 +23,7 @@
 }
 
 #wave {
-	color: #821a06d9;
+	  color: #821a06d9;
     padding-top: calc((100% - 1127px) / 2);
     height: 7em;
     box-sizing: content-box;
